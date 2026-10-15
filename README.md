@@ -34,4 +34,4 @@ Production integration requires transport cancellation, authorization, serialize
 
 ## AI assistance
 
-OpenAI Codex substantially generated the companion implementation and tests and ran local validation commands. The recorded checks are reproducible execution evidence, not independent peer review. Review and reproduce the implementation before adapting it.
+OpenAI Codex substantially helps in generating the companion implementation and tests and ran local validation commands. The recorded checks are reproducible execution evidence, not independent peer review. Review and reproduce the implementation before adapting it.
